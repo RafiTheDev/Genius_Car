@@ -51,7 +51,7 @@ const Homeservices = () => {
         <h2 className="flex justify-center text-3xl font-bold my-5">Our Service Area</h2>
         <p className="flex justify-center text-center">
           The majority have suffered alteration in some form, by injected humour, or randomised <br />
-          words which don't look even slightly believable.
+          words which do not look even slightly believable.
         </p>
       </div>
 

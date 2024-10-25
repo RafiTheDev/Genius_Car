@@ -49,7 +49,7 @@ const Homeproducts = () => {
       <div className="container mx-auto my-5">
         <p className="flex justify-center text-xl my-5 text-[#FF3811] font-bold">Popular Products</p>
         <h2 className="flex justify-center text-3xl font-bold my-5">Browse Our Products</h2>
-        <p className="flex justify-center text-center">The majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+        <p className="flex justify-center text-center">The majority have suffered alteration in some form, by injected humour, or randomised words which do not look even slightly believable.</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 container mx-auto my-10">
