@@ -1,0 +1,22 @@
+.banner {
+    background-image: url('https://i.postimg.cc/Fzt05nW5/Rectangle-2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; /* Ensures the image covers the entire area */
+    width: 100%; /* Full width of the container */
+    height: 600px; /* Fixed height; adjust as needed */
+    min-height: 850px; /* Minimum height for smaller screens */
+}
+
+/* Media Queries for better responsiveness */
+@media (max-width: 768px) {
+    .banner {
+        height: 400px; /* Adjust height for tablets */
+    }
+}
+
+@media (max-width: 480px) {
+    .banner {
+        height: 300px; /* Further adjust height for mobile devices */
+    }
+}
